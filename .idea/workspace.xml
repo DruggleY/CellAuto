@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2144094-d17a-4f90-bd17-47dc2905f7a9" name="Default" comment="" />
+    <list default="true" id="53f5d9a1-9842-49d3-bcc9-e81781f11bb6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$9$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$9$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Cells.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/Cells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/presource/Sources.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/presource/Sources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Cells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Cells.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/presource/Sources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/presource/Sources.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,18 +32,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DoCell$Cells.ic" NAME="Cells Coverage Results" MODIFIED="1532313065674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>main.*</FILTER>
-    </SUITE>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sources.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sources.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/presource/Sources.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="80">
+              <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -29,22 +46,29 @@
       <file leaf-file-name="Source.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/presource/Source.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cells.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/presource/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cells.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="688" column="21" lean-forward="true" selection-start-line="688" selection-start-column="21" selection-end-line="688" selection-end-column="21" />
+            <state relative-caret-position="-16274">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1867#3468#0" expanded="true" />
+                <element signature="e#3467#3468#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,17 +76,14 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>map</find>
-      <find>Map</find>
+      <find>Sys</find>
+      <find>export</find>
+      <find>contentPane</find>
+      <find>equals</find>
+      <find>ys</find>
+      <find>RuleB = new HashSet&lt;Integer&gt;();</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,26 +92,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/presource/Point.java" />
-        <option value="$PROJECT_DIR$/src/main/presource/Source.java" />
         <option value="$PROJECT_DIR$/src/main/presource/Sources.java" />
         <option value="$PROJECT_DIR$/src/main/Cells.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,14 +133,22 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="presource" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DoCell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoCell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Cells.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,35 +226,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2144094-d17a-4f90-bd17-47dc2905f7a9" name="Default" comment="" />
-      <created>1532311929989</created>
+      <changelist id="53f5d9a1-9842-49d3-bcc9-e81781f11bb6" name="Default" comment="" />
+      <created>1532679253935</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532311929989</updated>
+      <updated>1532679253935</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.15246637" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49934897" weight="0.32876712" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" show_stripe_button="false" sideWeight="0.50065106" side_tool="true" weight="0.74246573" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16849315" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.16027397" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49934897" weight="0.32876712" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13151042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13346355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -241,113 +266,71 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13840">
-          <caret line="692" column="18" selection-start-line="692" selection-start-column="18" selection-end-line="692" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/presource/Sources.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/presource/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/presource/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10760">
-          <caret line="538" column="48" selection-start-line="538" selection-start-column="48" selection-end-line="538" selection-end-column="48" />
+        <state relative-caret-position="6020">
+          <caret line="301" column="85" selection-start-line="301" selection-start-column="85" selection-end-line="301" selection-end-column="85" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3540">
-          <caret line="177" column="39" lean-forward="true" selection-start-line="177" selection-start-column="39" selection-end-line="177" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8700">
-          <caret line="435" column="69" lean-forward="true" selection-start-line="435" selection-start-column="69" selection-end-line="435" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1867#3468#0" expanded="true" />
+            <element signature="e#3467#3468#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/presource/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/presource/Source.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/presource/Sources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Cells.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="688" column="21" lean-forward="true" selection-start-line="688" selection-start-column="21" selection-end-line="688" selection-end-column="21" />
+        <state relative-caret-position="-16274">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1867#3468#0" expanded="true" />
+            <element signature="e#3467#3468#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/presource/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/presource/Sources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
